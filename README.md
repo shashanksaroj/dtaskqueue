@@ -1,7 +1,7 @@
 # Distributed Fault-Tolerant Task Queue
 
 A scalable backend system for **asynchronous task processing** using **Spring Boot** and **RabbitMQ**.  
-This project demonstrates **distributed task processing**, **fault-tolerance**, **retry mechanisms**, and **persistent task status tracking** — suitable for SDE-2 level portfolio projects.
+This project demonstrates **distributed task processing**, **fault-tolerance**, **retry mechanisms**, and **persistent task status tracking**
 
 ---
 
